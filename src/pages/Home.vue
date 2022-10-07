@@ -13,7 +13,7 @@
                     ORACLE,
                     SQL database tools. A strong engineering professional with a Bachelor of Engineering (BE) focused on
                     Computer Engineering from Bangkok University.</p>
-                <a href="about.html" class="btn"> about me <i class="fas fa-user"></i> </a>
+                <router-link to="/about" class="btn"> about me <i class="fas fa-user"></i> </router-link>
             </div>
         </section>
     </div>
